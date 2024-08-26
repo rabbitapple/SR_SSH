@@ -1,0 +1,6 @@
+CentOS7 : .el7.
+CentOS8 : .el8.
+CentOS9 : .el9.
+Ubuntu : Ubuntu
+Rocky8 : .el8_
+Rocky9 : .el9_

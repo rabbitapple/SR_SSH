@@ -1,0 +1,5 @@
+서버명::로그위치::로그검색어
+FTP::/var/log/xferlog::none
+DHCP::/var/log/messages::dhcp
+DNS::/var/log/messages::named
+SSH::/var/log/secure::sshd

@@ -1,0 +1,8 @@
+시스템명::Redhat 서비스명::Debian 서비스명
+SSH::sshd::ssh
+Firewalld::firewalld::none
+UFW::none::ufw
+FTP::vsftpd::vsftpd
+DHCP::dhcpd::isc-dhcp-server
+DNS::named::named
+SMB::smb::smb
